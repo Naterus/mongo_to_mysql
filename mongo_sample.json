@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5eaabb04b5ef9532940ab005"
+  },
+  "id": 1,
+  "name": "John Doe",
+  "role": "User"
+},{
+  "_id": {
+    "$oid": "5eaabb04b5ef9532940ab006"
+  },
+  "id": 2,
+  "name": "Jane Doe",
+  "role": "Adminr"
+},{
+  "_id": {
+    "$oid": "5eabc621b5ef9532940ab007"
+  },
+  "id": 3,
+  "name": "Linda",
+  "role": "Admin"
+},{
+  "_id": {
+    "$oid": "5eabc6ecb5ef9532940ab008"
+  },
+  "id": 4,
+  "name": "Clause mayor",
+  "role": "Sales"
+}]
